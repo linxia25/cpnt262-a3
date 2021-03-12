@@ -1,5 +1,5 @@
-﻿# CPNT 262 Assignment 2: Dynamic Image Gallery
-By Xia Lin March 3, 2021
+﻿# CPNT 262 Assignment 3: Deployed Static Express Website
+By Xia Lin March 12, 2021
 
 ## Description
 A website for online sales of high-end furniture!
