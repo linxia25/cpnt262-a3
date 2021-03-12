@@ -22,8 +22,8 @@ A website for online sales of high-end furniture!
 - Thanks Jess for help!
 
 ## Links
-- GH repo: https://github.com/linxia25/cpnt262-a2.git
-- GH Pages site: https://linxia25.github.io/cpnt262-a2/
+- GH repo: https://github.com/linxia25/cpnt262-a3.git
+- GH Pages site: https://linxia25.github.io/cpnt262-a3/
 
 ## File/directory
 - /public
