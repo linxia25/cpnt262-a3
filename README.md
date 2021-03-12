@@ -17,7 +17,9 @@ A website for online sales of high-end furniture!
 - [accent-table.jpg](https://www.pexels.com/photo/white-and-black-desk-beside-bed-and-window-439227/"accent-table.jpg") by Medhat Ayad.
 - [malm-dresser.jpg](https://www.pexels.com/photo/photo-of-brown-wooden-3-drawer-malm-dresser-with-black-plastic-case-879821/) by Daria Shevtsova.
 - [shelves.jpg](https://www.pexels.com/photo/interior-of-children-bedroom-with-wooden-furniture-and-toys-and-globe-placed-on-shelves-in-room-3932930/) by Tatiana Syrikova.
-- [wooden-table,jpg](https://www.pexels.com/photo/brown-wooden-table-with-chair-3097112/) by Nugroho Wahyu.
+- [wooden-table.jpg](https://www.pexels.com/photo/brown-wooden-table-with-chair-3097112/) by Nugroho Wahyu.
+- [404.html](https://www.youtube.com/watch?v=Bz8q-ohqXPE) by Coding Shiksha.
+- Thanks Jess for help!
 
 ## Links
 - GH repo: https://github.com/linxia25/cpnt262-a2.git
