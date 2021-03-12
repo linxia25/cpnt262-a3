@@ -5,7 +5,7 @@ By Xia Lin March 12, 2021
 A website for online sales of high-end furniture!
 
 ## Comments
-- Although Tony showed similar code in the course, this assignment is still much more complicated. Output to Html and the use of ${} are the key, and it is also important to add objects to the array.
+- Although Tony only showed how to output strings in class, we need to output a page according to the task requirements, so we need to use the res.SendFile function.
 
 ## Attributions
 - [Logo.jpg](https://www.designevo.com/ "Logo") by DesignEvo.
