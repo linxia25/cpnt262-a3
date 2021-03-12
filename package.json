@@ -1,0 +1,17 @@
+{
+  "name": "cpnt262-a3",
+  "version": "1.0.0",
+  "description": "Built a static gallery website for Assignment 2 that will eventually be served dynamically from a JSON API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Xia Lin",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
