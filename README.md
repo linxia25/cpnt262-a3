@@ -23,7 +23,7 @@ A website for online sales of high-end furniture!
 
 ## Links
 - GH repo: https://github.com/linxia25/cpnt262-a3.git
-- GH Pages site: https://linxia25.github.io/cpnt262-a3/
+- Heroku URL: https://cpnt262a3.herokuapp.com/
 
 ## File/directory
 - /public
